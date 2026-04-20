@@ -3,7 +3,7 @@
 
 
 [![ROS Edition](https://img.shields.io/badge/ROS-Noetic-blue.svg)](http://wiki.ros.org/noetic)
-[![Python](https://img.shields.io/badge/Python-3.8-yellow.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.11-yellow.svg)](https://www.python.org/)
 
 ## 📝 Описание проекта
 Данный проект представляет собой интеллектуальную систему для БПЛА (на базе COEX klever), предназначенную для автономного поиска, отслеживания и мягкой посадки на движущуюся цель. 

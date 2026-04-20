@@ -1,0 +1,6 @@
+<launch>
+    <node pkg="a_uav_l_s" type="predictor_node.py" name="clover_predictor" output="screen">
+        <param name="model_path" value="$(find a_uav_l_s)/models/clover_predictor_v1.pth"/>
+        <param name="aruco_id" value="102"/>
+    </node>
+</launch>
